@@ -1,0 +1,5 @@
+.env
+*venv*
+*.mp4
+README.md
+input.jsonl
